@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ayub</title>
+    <link>https://examplesite.org/authors/</link>
+    <description>Recent content in Authors on Ayub</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://examplesite.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://examplesite.org/authors/admin/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/authors/admin/</guid>
+      <description>&lt;p&gt;I am a computer science engineer specializing in predictive analytics applications.
+Presently working in fire and life safety research to design and implement data science solutions, analytical processes and encourage data driven decisions within the organization.
+Previously trained in business intelligence and data warehousing tools where I built data processing pipelines and KPI dashboards for big data and business teams in IT organizations.
+Interests: Deep Learning, Natural Language Processing, Distributed Frameworks&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
